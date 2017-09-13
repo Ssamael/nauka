@@ -1,0 +1,7 @@
+puts "Hello World"
+puts "Hello again"
+puts "I like typing this."
+puts "This is fun."
+puts "why all this type exercises have the same text to write?"
+puts "Exercise is nice, but the text is boring..."
+puts "So I probably know how to use puts commend."
