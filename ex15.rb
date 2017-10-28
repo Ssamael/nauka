@@ -14,4 +14,4 @@ txt_again = open(file_again) # transform file into an object
 
 print txt_again.read # reading and printing the file
 
-txt_again.close 
+txt_again.close 	
